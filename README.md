@@ -1,2 +1,5 @@
 # kotlin-java-githubactions
-[![Kotlin ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml/badge.svg)](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml)
+[![Kotlin ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml/badge.svg)](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/ubuntu-build-java-wf.yml)  
+[![junit-jupiter Kotlin ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/junit-jupiter-wf.yml/badge.svg)](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/junit-jupiter-wf.yml)  
+[![spock Kotlin ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/spock-wf.yml/badge.svg)](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/spock-wf.yml)  
+[![testng Kotlin ubuntu Building Java Applications CI workflow](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/testng-wf.yml/badge.svg)](https://github.com/githubfoam/kotlin-java-githubactions/actions/workflows/testng-wf.yml)
